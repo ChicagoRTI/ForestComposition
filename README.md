@@ -5,10 +5,10 @@ The forest composition work group of the Chicago Region Trees Initiative works t
 
 ## Contributors
 
-- Mark Johnston
-- Don Morrison
-- Lindsay Darling
-- Steve Lane
+- Mark Johnston: The Field Museum
+- Don Morrison: The Field Museum
+- Lindsay Darling: The Morton Arboretum
+- Steve Lane: Graf Tree Care
 
 ## Data descriptions
 
